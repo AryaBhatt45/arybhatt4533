@@ -135,33 +135,34 @@ Focus: Linux · Networking · Nmap basics
 
 
 <!-- 🔥 STREAK — the important one -->
-<img width="60%" src="https://streak-stats.demolab.com?user=arybhatt4533&hide_border=true&background=0D1117&stroke=00F7FF&ring=22D3EE&fire=00F7FF&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="GitHub Streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=DevanyAguslia&hide_border=true&background=0D1117&stroke=A855F7&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="GitHub Streak" />
 
+<br/><br/>
 
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevanyAguslia&bg_color=0D1117&color=C9D1D9&line=A855F7&point=22D3EE&area_color=A855F7&area=true&hide_border=true&radius=12" alt="Activity Graph" />
 
+<br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arybhatt4533&bg_color=0D1117&color=C9D1D9&line=00F7FF&point=22D3EE&area_color=00F7FF&area=true&hide_border=true&radius=12" alt="Activity Graph" />
-
-
-<img src="https://img.shields.io/github/stars/arybhatt4533?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=00F7FF&labelColor=0D1117" alt="stars" />
-<img src="https://img.shields.io/github/followers/arybhatt4533?style=for-the-badge&logo=github&label=FOLLOWERS&color=22D3EE&labelColor=0D1117" alt="followers" />
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="open to collab" />
+<img src="https://img.shields.io/github/stars/DevanyAguslia?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=A855F7&labelColor=0D1117" alt="stars" />
+<img src="https://img.shields.io/github/followers/DevanyAguslia?style=for-the-badge&logo=github&label=FOLLOWERS&color=22D3EE&labelColor=0D1117" alt="followers" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-A855F7?style=for-the-badge&labelColor=0D1117" alt="open to collab" />
 
 </div>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <div align="center">
 
-🐍  Watch My Contributions Get Eaten
+### 🐍 &nbsp;Watch My Contributions Get Eaten
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arybhatt4533/arybhatt4533/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arybhatt4533/arybhatt4533/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/arybhatt4533/arybhatt4533/output/snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevanyAguslia/DevanyAguslia/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevanyAguslia/DevanyAguslia/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/DevanyAguslia/DevanyAguslia/output/snake.svg" width="100%" />
 </picture>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:00F7FF,100:22D3EE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:A855F7,100:22D3EE" />
 
 <!-- ═══════════════════════════ CURRENTLY ═══════════════════════════ -->
 
